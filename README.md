@@ -1,4 +1,4 @@
-[![[GitHub last commit](https://img.shields.io/github/last-commit/MarkDarwin/terraform-cloudflare-pihole-gateway?color=4051B5&label=Last%20Update&style=flat-square)]]
+[![GitHub last commit](https://img.shields.io/github/last-commit/MarkDarwin/terraform-cloudflare-pihole-gateway?color=4051B5&label=Last%20Update&style=flat-square){ .off-glb }](https://github.com/MarkDarwin/terraform-cloudflare-pihole-gateway/commits/main){:target="_blank" rel="noopener noreferrer"}
 
 
 # terraform-cloudflare-pihole-gateway
